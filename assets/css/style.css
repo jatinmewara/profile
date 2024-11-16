@@ -42,11 +42,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
 :root {
-    --color-primary: #ff014f;
+    --color-primary: #e1c742;
     --color-secondary: #f4f5f6;
     --color-tertiary: #0d1013;
     --color-gray: #f6f6f6;
-    --color-subtitle: #f9004d;
+    --color-subtitle: #e1c742;
     --background-color-1: linear-gradient(145deg, #1e2024, #23272b);
     --background-color-2: #212428;
     --shadow-1: 10px 10px 19px #1c1e22, -10px -10px 19px #262a2e;
@@ -54,7 +54,7 @@
     --inner-shadow: 1px 4px 2px -3px rgba(0, 0, 0, 0.7) inset, -1px -3px 3px -2px rgba(255, 255, 255, 0.2) inset;
     --shadow-white-3: 5px 5px 15px #D1D9E6, -5px -5px 15px #ffffff;
     --gradient-box-w: linear-gradient(145deg, #e2e8ec, #ffffff);
-    --gradient-red-hover: linear-gradient(145deg, #ff014f, #d11414);
+    --gradient-red-hover: linear-gradient(145deg, #e1c742, #e1c740);
     --color-heading: #ffffff;
     --color-heading-wv: #1e2125;
     --color-body: #878e99;
@@ -68,14 +68,14 @@
     --color-white: #ffffff;
     --color-white-75: rgba(255, 255, 255, 0.75);
     --color-success: #3EB75E;
-    --color-danger: #FF0003;
+    --color-danger: #e1c742;
     --color-warning: #FF8F3C;
     --color-info: #1BA2DB;
     --color-facebook: #3B5997;
     --color-twitter: #1BA1F2;
-    --color-youtube: #ED4141;
+    --color-youtube: #e1c742;
     --color-linkedin: #0077B5;
-    --color-pinterest: #E60022;
+    --color-pinterest: #e1c742;
     --color-instagram: #C231A1;
     --color-vimeo: #00ADEF;
     --color-twitch: #6441A3;
@@ -12375,7 +12375,7 @@ figcaption {
 }
 
 .section-title span.subtitle {
-    color: #ff014f;
+    color: #e1c742;
     text-transform: uppercase;
     letter-spacing: 5px;
     font-size: 14px;
@@ -12568,7 +12568,7 @@ figcaption {
 }
 
 .slide .content .inner .title span {
-    color: #ff014f;
+    color: #e1c742;
 }
 
 .slide .content .inner .title .header-caption span {
@@ -14504,7 +14504,7 @@ div#featured-project-carousel {
 
 .rn-nav-list .nav-item .nav-link:hover,
 .rn-nav-list .nav-item .nav-link.active {
-    color: #ff014f;
+    color: #e1c742;
     background-color: transparent;
     border-color: transparent;
     border: 0 none;
