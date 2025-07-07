@@ -20759,7 +20759,7 @@ body.white-version .rn-btn-ulderline {
     font-size: 1.5rem;
 }
 .newcontent{
-    display: -webkit-box;
+    display: -webkit-box !important;
     -webkit-line-clamp: 4;
     -webkit-box-orient: vertical;
     line-height: 1.4em;
