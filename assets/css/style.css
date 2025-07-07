@@ -20758,4 +20758,11 @@ body.white-version .rn-btn-ulderline {
 .certificate-description{
     font-size: 1.5rem;
 }
+.newcontent{
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    line-height: 1.4em;
+    overflow: hidden;
+}
 /*# sourceMappingURL=../maps/style.css.map */
